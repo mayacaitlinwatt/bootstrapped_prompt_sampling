@@ -43,37 +43,7 @@ Each stage of the workflow is implemented in a separate script under `src/`.
 
 ---
 
-## Repository Structure
 
-bps-domain-stability/
-├── src/
-│ ├── llm_client.py
-│ ├── llm_call.py
-│ ├── extract_domains.py
-│ ├── map_domains.py
-│ ├── categorical_analysis.py
-│ └── config.py
-│
-├── data/
-│ └── outputs/
-│ ├── llm_outputs.txt
-│ ├── extracted_domains.json
-│ ├── extracted_domains_round2.json
-│ ├── extracted_domains_openai.json
-│ ├── domains_with_categories.json
-│ ├── domains_with_categories_round2.json
-│ ├── domains_with_categories_openai.json
-│ └── domain_frequencies_bargraph.json
-│ └── domain_frequencies_bargraph_round2.json
-│ └── domain_frequencies_bargraph_openai.json
-│
-├── docs/
-│ ├── poster.png
-│
-├── requirements.txt
-└── README.md
-
----
 
 ## Set-up
 
