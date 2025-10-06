@@ -4,8 +4,7 @@ This repository documents **Bootstrapped Prompt Sampling (BPS)**, a method for e
 
 The goal is to examine the extent to which LLMs produce stable conceptual categories vs. semantic noise. Our particular use case is patient-centered research. More specifically, patient values in breast cancer treatment. 
 
-We're interested in domains that appear a moderate amount, i.e. domains like "location", "caregiver burden", etc. that are not as common as "efficacy" and "cost", but are more common than domains that appear only once, and are classified as noise. Because these domains are relatively unknown and produced stochastically, we believe BPS is a valuable and generalizable knowledge mining tool.
-
+We're interested in domains that appear a moderate amount, i.e. domains like "location", "caregiver burden", etc. that are not as common as "efficacy" and "cost", but are more common than domains that appear only once, and are classified as noise. These domains which appear a moderate amount are not a part of existing frameworks (e.g. the ASCO framework) but are produced stochastically by the LLM (and sometimes by more than one LLM), making BPS an LLM-agnostic and generalizable knowledge mining tool.
 
 ---
 
@@ -44,8 +43,6 @@ Each stage of the workflow is implemented in a separate script under `src/`.
 - When we re-ran the DeepSeek model, the domain names of the top half of the distribution remained stable. This is promising for use cases that require stable and reproducible knowledge mining.
 
 ---
-
-
 
 ## Set-up
 
