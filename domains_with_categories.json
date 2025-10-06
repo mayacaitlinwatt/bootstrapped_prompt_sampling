@@ -1,0 +1,3934 @@
+[
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Support Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Burden",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Specific Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access & Logistical Feasibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Psychosocial & Emotional Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access & Equity",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Novelty & Evidence Strength",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Healthcare System & Logistical Factors",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Value",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient Experience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship Care",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Value",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Healthcare System & Logistical Factors",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Subgroup Benefits",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Logistics",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Financial & Insurance Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Value",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term & Survivorship Considerations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Healthcare System & Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Innovation & Future Potential",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) and Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden and Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost and Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker and Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social and Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    },
+    {
+      "domain": "Survivorship & Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Financial & Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Centered & Psychosocial Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-Term & Survivorship Impact",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Treatment Goals & Preferences",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Survivorship & Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial & Supportive Care",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalized Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term & Survivorship Considerations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Factors",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial & Insurance Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Monitoring & Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research & Evidence Strength",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Support Services & Resources",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Support Factors",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial & Insurance Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research & Emerging Evidence",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Cultural Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Centered Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker & Precision Medicine Alignment",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Financial & Access Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Personal Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker & Precision Medicine Alignment",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Clinical Trial & Real-World Evidence",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Social Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial & Economic Burden",
+      "category": "Cost"
+    },
+    {
+      "domain": "Personal Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term & Survivorship Impact",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Comparative Effectiveness vs. Alternatives",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient Experience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalized & Genomic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative & Alternative Therapies",
+      "category": "Other"
+    },
+    {
+      "domain": "Healthcare System & Support Services",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Burden",
+      "category": "Cost"
+    },
+    {
+      "domain": "Personalized & Precision Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term & Survivorship Considerations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative & Alternative Options",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Treatment Goals & Preferences",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Logistics",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Accessibility",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalization",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Survivorship & Long-Term Impact",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Social & Caregiver Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalized Medicine & Biomarkers",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Alternative & Complementary Options",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-term Survivorship & Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Healthcare System & Access",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Centered Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker & Precision Medicine Alignment",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Survivorship & Long-Term Monitoring",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Treatment Setting & Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Healthcare System & Logistical Factors",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Financial & Access Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Monitoring & Follow-Up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) and Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost and Accessibility",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker and Subgroup Benefits",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences and Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social and Support Factors",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial & Insurance Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Support Services & Resources",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Economic Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Social Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Burden",
+      "category": "Cost"
+    },
+    {
+      "domain": "Personalized & Precision Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term & Survivorship Considerations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative & Alternative Options",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Centered Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker & Precision Medicine Alignment",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalized Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Psychosocial Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial & Insurance Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term & Survivorship Considerations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Support System Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Support Factors",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Access & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Healthcare System & Logistical Factors",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Support Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Support Factors",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalized Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Accessibility",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient Experience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalized Medicine & Biomarkers",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Support Services & Resources",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalized Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Financial & Logistical Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Personalization & Biomarker-Driven Value",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term & Survivorship Impact",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Value",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Support Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker & Subgroup Relevance",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Survivorship & Long-Term Care",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Accessibility",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Survivorship & Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Emerging Evidence & Future Prospects",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-Term Survivorship & Follow-Up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial & Economic Burden",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Treatment Modality & Invasiveness",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term & Survivorship Considerations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Economic & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient Experience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory & Evidence Strength",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Supportive Care & Integrative Services",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Logistics",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Financial & Insurance Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research & Emerging Evidence",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Access Equity Factors",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Burden",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term & Survivorship Impact",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial & Insurance Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Emerging Evidence & Research",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Legal Considerations",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial & Insurance Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term & Survivorship Considerations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Factors",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial & Insurance Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient Experience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization & Biomarker Suitability",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term Health & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Provider & Facility Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Ethical & Cultural Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient-Reported Outcomes (PROs) & Satisfaction",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Centered Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker & Precision Medicine Alignment",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Survivorship & Long-Term Monitoring",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    },
+    {
+      "domain": "Evidence Strength & Guidelines",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Burden",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Innovation & Future Potential",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Value",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalized Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value (vs. Alternatives)",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Treatment Goals & Preferences",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility & Logistics",
+      "category": "Other"
+    },
+    {
+      "domain": "Financial Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Centered Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker & Precision Medicine Alignment",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Cost & Financial Burden",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Support Services & Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Evidence & Research Data",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory & Ethical Considerations",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic & Financial Burden",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Precision Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Treatment Sequencing & Comparative Effectiveness",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Survivorship & Follow-Up Care",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory & Evidence Strength",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Equity & Disparities",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Centered Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic & Access Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Modality & Practicality",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker & Precision Medicine Alignment",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term Survivorship & Late Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Ethical & Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Healthcare System & Policy Factors",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic & Access Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Precision Medicine Alignment",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Healthcare System & Support Services",
+      "category": "Cost"
+    },
+    {
+      "domain": "Ethical & Legal Considerations",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Side Effects",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative & Alternative Options",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Monitoring & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Value",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social & Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility & Equity",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Treatment Modality & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient Experience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization & Biomarker Suitability",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative & Alternative Therapies",
+      "category": "Other"
+    },
+    {
+      "domain": "Healthcare System & Provider Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory & Evidence-Based Support",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Logistics & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Fit",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Value",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care & Resources",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences & Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Social & Support Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Ethical & Access Considerations",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy & Safety",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Modality & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Burden",
+      "category": "Cost"
+    },
+    {
+      "domain": "Personalized & Precision Medicine Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-Term & Survivorship Considerations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences & Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative & Alternative Options",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety & Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Quality of Life (QoL) & Patient-Reported Outcomes (PROs)",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Burden & Convenience",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost & Financial Impact",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker & Personalized Medicine Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Treatment Setting & Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Value vs. Alternatives",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences & Goals",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes & Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ]
+]

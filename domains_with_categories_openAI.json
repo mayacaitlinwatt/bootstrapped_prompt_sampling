@@ -1,0 +1,4738 @@
+[
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Engagement and Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient and Provider Communication",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Clinical Guidelines and Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Monitoring and Follow-Up",
+      "category": "Other"
+    },
+    {
+      "domain": "Impact on Comorbidities",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-Term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Guideline Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Biomarkers",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Biomarkers",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Accessibility and Availability",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Interdisciplinary Collaboration",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Innovation",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access and Availability",
+      "category": "Other"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Support",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Impact on Comorbidities",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Education and Engagement",
+      "category": "Other"
+    },
+    {
+      "domain": "Clinical Guidelines and Evidence",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Socioeconomic Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Cultural and Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarkers and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Innovation",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Support",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Lifestyle and Functional Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Innovation",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Accessibility and Availability",
+      "category": "Other"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Monitoring and Follow-Up",
+      "category": "Other"
+    },
+    {
+      "domain": "Impact on Comorbidities",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarkers and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient and Provider Communication",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarkers and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient and Provider Communication",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarkers and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Socioeconomic Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Biomarkers",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Clinical Guidelines and Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Innovation",
+      "category": "Other"
+    },
+    {
+      "domain": "Psychosocial Factors",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Logistical Considerations",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Informed Decision-Making",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Adherence and Compliance",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Impact on Future Treatment Options",
+      "category": "Other"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access and Availability",
+      "category": "Other"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Support",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarkers and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Social and Environmental Factors",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Healthcare System Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient and Provider Communication",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access and Availability",
+      "category": "Other"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Healthcare System Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Informed Decision-Making",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Healthcare System Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Clinical Guidelines and Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Impact on Lifestyle and Daily Living",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Access to Care",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Informed Decision-Making",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Management",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Engagement and Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Socioeconomic Factors",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Adherence and Compliance",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Impact on Future Treatment Options",
+      "category": "Other"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Healthcare System Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarkers and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Healthcare System Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Informed Decision-Making",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Adherence and Compliance",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient and Family Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Health System Factors",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Support",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Treatment Guidelines and Evidence",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Interdisciplinary Collaboration",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Empowerment and Engagement",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Lifestyle and Functional Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access and Availability",
+      "category": "Other"
+    },
+    {
+      "domain": "Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient and Provider Communication",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Innovation",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Clinical Guidelines and Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory Approval and Market Access",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarkers and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Healthcare System Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Socioeconomic Factors",
+      "category": "Cost"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Clinical Guidelines and Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Education and Informed Decision-Making",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Clinical Guidelines and Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Guideline Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Supportive Care Options",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Innovation",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Support",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Healthcare System Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Healthcare System Factors",
+      "category": "Cost"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Access to Care",
+      "category": "Cost"
+    },
+    {
+      "domain": "Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Clinical Guidelines and Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Interdisciplinary Collaboration",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Clinical Guidelines and Recommendations",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Impact on Future Treatment Options",
+      "category": "Other"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Evidence Base",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Education and Support",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Healthcare Provider Experience",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Engagement and Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Personalization and Genetic Factors",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Research and Innovation",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care Needs",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access and Availability",
+      "category": "Other"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Multidisciplinary Care",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Engagement and Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Impact on Lifestyle",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Social and Family Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Genomic and Biomarker Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Lifestyle and Functional Impact",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Societal Impact",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Accessibility",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient Engagement and Shared Decision-Making",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access to Treatment",
+      "category": "Other"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Accessibility and Availability",
+      "category": "Other"
+    },
+    {
+      "domain": "Patient Support and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Biomarker and Genetic Considerations",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Long-term Outcomes and Follow-up",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Impact on Mental Health",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Ethical Considerations",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Healthcare Provider Experience",
+      "category": "Other"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Access and Availability",
+      "category": "Other"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Support Systems",
+      "category": "Patient-centered outcomes and preferences"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Cost-Effectiveness",
+      "category": "Cost"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Biomarker and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Psychosocial Impact",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Long-term Outcomes",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Regulatory and Approval Status",
+      "category": "Clinical effectiveness"
+    }
+  ],
+  [
+    {
+      "domain": "Clinical Efficacy",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Safety and Tolerability",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Patient-Reported Outcomes",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Economic Considerations",
+      "category": "Cost"
+    },
+    {
+      "domain": "Treatment Administration",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Patient Preferences and Values",
+      "category": "Patient-centered outcomes and preferences"
+    },
+    {
+      "domain": "Comparative Effectiveness",
+      "category": "Clinical effectiveness"
+    },
+    {
+      "domain": "Biomarkers and Genetic Testing",
+      "category": "Biomarkers and personalized medicine"
+    },
+    {
+      "domain": "Supportive Care and Resources",
+      "category": "Cost"
+    },
+    {
+      "domain": "Long-term Outcomes and Survivorship",
+      "category": "Clinical effectiveness"
+    }
+  ]
+]
