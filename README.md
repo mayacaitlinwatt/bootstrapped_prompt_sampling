@@ -1,7 +1,9 @@
 # Bootstrapped Prompt Sampling (BPS)
 
 This repository documents **Bootstrapped Prompt Sampling (BPS)**, a method for exploring how consistent large language models (LLMs) are when repeatedly asked the same question (prompt).  
+
 The goal is to examine the extent to which LLMs produce stable conceptual categories vs. semantic noise. Our particular use case is patient-centered research. More specifically, patient values in breast cancer treatment. 
+
 We're interested in domains that appear a moderate amount, i.e. domains like "location", "caregiver burden", etc. that are not as common as "efficacy" and "cost", but are more common than domains that appear only once, and are classified as noise. Because these domains are relatively unknown and produced stochastically, we believe BPS is a valuable and generalizable knowledge mining tool.
 
 
