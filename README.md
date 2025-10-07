@@ -1,10 +1,12 @@
 # Bootstrapped Prompt Sampling (BPS)
 
-This repository documents **Bootstrapped Prompt Sampling (BPS)**, a method for exploring how consistent large language models (LLMs) are when repeatedly asked the same question (prompt).  
+This repository documents **Bootstrapped Prompt Sampling (BPS)**, a model-agnostic method for evaluating the consistentsy of large language model (LLM) outputs. Contributers include Stephen Watt, Brett South, Jay Ronquillo, and Jonathan Mauer, and is applicable to knowledge mining, ontology development, AI safety and reproducibility, and prompt engineering. 
 
-The goal is to examine the extent to which LLMs produce stable conceptual categories vs. semantic noise. Our particular use case is patient-centered research. More specifically, patient values in breast cancer treatment. 
+Our goal was to examine the extent to which LLMs produce stable conceptual categories vs. semantic noise. Our particular use case is patient-centered research, more specifically, patient values in breast cancer treatment. 
 
-We're interested in domains that appear a moderate amount, i.e. domains like "location", "caregiver burden", etc. that are not as common as "efficacy" and "cost", but are more common than domains that appear only once, and are classified as noise. These domains which appear a moderate amount are not a part of existing frameworks (e.g. the ASCO framework) but are produced stochastically by the LLM (and sometimes by more than one LLM), making BPS an LLM-agnostic and generalizable knowledge mining tool.
+The core of our methodology is running a single prompt multiple times and graphing the outputs -- doing so ensures we observe the given LLM's entire semantic landscape of a particular prompt or domain. We are essentially reverse-engineering the sample space in which an LLM generates reponses from for use cases where a high temperature is valuable, but responses must be reproducible. Patient-centered research is one such use case, where we're interested in mining knowledge on unmet patient need, but must do so in a way that's valid and reproducible, which LLM's struggle with. 
+
+Our work produced distributions that were stable and provided new knowledge. This new knowledge was found in domains that appeared a moderate amount, i.e. domains like "location", "caregiver burden", etc. that are not as common as "efficacy" and "cost", but are more common than domains that appear only once, and are classified as noise. These domains which appear a moderate amount are not a part of existing frameworks (e.g. the ASCO framework) but are produced stochastically by the LLM (and sometimes by more than one LLM), making BPS an LLM-agnostic and generalizable knowledge mining tool.
 
 ---
 
@@ -15,7 +17,9 @@ The responses were processed, cleaned, categorized, and analyzed for stability a
 
 **Core questions:**
 > “What domains would enable a patient and physician to assess the value of a particular breast cancer treatment?”
+> 
 > "Does the distribution of outputs change if the prompt changes?"
+> 
 > "Does a different LLM generate the same distribution?"
 
 ---
