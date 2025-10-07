@@ -1,26 +1,32 @@
 # Bootstrapped Prompt Sampling (BPS)
 
-This repository documents **Bootstrapped Prompt Sampling (BPS)**, a model-agnostic method for evaluating the consistentsy of large language model (LLM) outputs. Contributers include Stephen Watt, Brett South, Jay Ronquillo, and Jonathan Mauer, and is applicable to knowledge mining, ontology development, AI safety and reproducibility, and prompt engineering. 
+This repository documents **Bootstrapped Prompt Sampling (BPS)**, a model-agnostic method for evaluating the distribution of large language model (LLM) outputs. Contributers include Stephen Watt, Brett South, Jay Ronquillo, and Jonathan Mauer. This methodology is applicable to knowledge mining, ontology development, AI safety and reproducibility, and prompt engineering. Research is ongoing.
 
-Our goal was to examine the extent to which LLMs produce stable conceptual categories vs. semantic noise. Our particular use case is patient-centered research, more specifically, patient values in breast cancer treatment. 
+Our goal is to examine the extent to which LLMs produce stable conceptual categories vs. semantic noise. Our particular use case is in knowledge mining, more specifically, patient unmet need in evaluation frameworks.
 
-The core of our methodology is running a single prompt multiple times and graphing the outputs -- doing so ensures we observe the given LLM's entire semantic landscape of a particular prompt or domain. We are essentially reverse-engineering the sample space in which an LLM generates reponses from for use cases where a high temperature is valuable, but responses must be reproducible. Patient-centered research is one such use case, where we're interested in mining knowledge on unmet patient need, but must do so in a way that's valid and reproducible, which LLM's struggle with. 
+## Methods
 
-Our work produced distributions that were stable and provided new knowledge. This new knowledge was found in domains that appeared a moderate amount, i.e. domains like "location", "caregiver burden", etc. that are not as common as "efficacy" and "cost", but are more common than domains that appear only once, and are classified as noise. These domains which appear a moderate amount are not a part of existing frameworks (e.g. the ASCO framework) but are produced stochastically by the LLM (and sometimes by more than one LLM), making BPS an LLM-agnostic and generalizable knowledge mining tool.
+The core of our methodology is running a single prompt 100+ times and analysing the distribution of outputs. This method is novel in that it uncovers the semantic landscape in which the LLM generates its outputs from. This landscape is reproducible, and is valuable in knowledge mining, ontology development, AI safety and reproducibility, and prompt engineering. Our particular use case is knowledge mining, where high-temperature, non-deterministic LLMs show promise for uncovering unmet patient need. Such high-temperature, non-deterministic LLMs are not utilised for different reasons, one being their tendancy to produce different outputs given the same prompt. This is an issue in use cases like healthcare where reproducibility is a priority. Our methodology overcomes this reproducibility issue by producing distriutions of LLM outputs instead of single outputs. These distributions are stable, with knowledge ranked from high-frequency responses at the top and low-frequency "noise" at the bottom. 
+
+Our prompt was following: Please generate a list of domains that would enable a patient and physician to assess the value of a particular breast cancer treatment.
+
+Models: Deepseek and ChatGPT 4o-mini.
 
 ---
 
-## Overview
+## Discussion
 
-The same prompt was sent to an LLM 100 times using a custom Python client.  
-The responses were processed, cleaned, categorized, and analyzed for stability across runs.
+Our high-frequency outputs included domains like "efficacy" and "cost", which are well-known, well-defined domains already in the ASCO framework, and low-frequency outputs, which we consider noise and included more ambiguous domains and rewordings of other domains (e.g. "Safety & Access"). Interestingly, there were domains that did not appear in the ASCO framework that were present in multiple iterations of BPS. These domains had a moderate frequency and appeared in the center of the distribution. They included references to things like "location" and "caregiver burden." Domains that a researcher may not have thought of, but are well-represented in the distribution.
+Further, domains already present in the ASCO framework dominated the top section of our distribution, hinting at a kind of concordence and peace-of-mind that the LLM understood our context. However, more validation is needed.
 
-**Core questions:**
-> “What domains would enable a patient and physician to assess the value of a particular breast cancer treatment?”
+---
+
+**Motivating questions:**
+>"How many iterations does it take for the LLM to produce a stable distribution?"
+>
+>"How does the distribution change with small vs large changes to the prompt?"
 > 
-> "Does the distribution of outputs change if the prompt changes?"
-> 
-> "Does a different LLM generate the same distribution?"
+>"What does the distribution of high-temperature LLMs look like, vs low-temperature? Reasoning LLMs vs non-reasoning?"
 
 ---
 
@@ -32,24 +38,21 @@ Each stage of the workflow is implemented in a separate script under `src/`.
 |------|---------|-------------|
 | 1 | `llm_call.py` / `llm_client.py`| Sends the same prompt to an LLM (DeepSeek and ChatGPT 4o-mini) 100 times and saves all outputs. |
 | 2 | `extract_domains.py` | Extracts domains from the raw text outputs. |
-| 3 | `map_domains.py` / `map_domains_round2.py` / `map_domains_openai`| Each unique domain name is assigned to 1 of 5 categories. These mappings were validated by a domain expert. Note: We also asked the LLM to do this task, but the outputs had errors in the domain names. Also, this step is not necessary to run BPS, it was simply to see if certain categories clustered differently in the distribution (e.g., if cost-related categories were clustered towards the top of the distribution, or if patient-preference categories were clustered towards the tail)  |
+| 3 | `map_domains.py` / `map_domains_round2.py` / `map_domains_openai`| Each unique domain name is assigned to 1 of 5 categories. These mappings were validated by a domain expert. Note: this step is not necessary to run BPS, it was simply to see if certain categories clustered differently in the distribution (e.g., if cost-related categories clustered differently to patient-preference categories)  |
 | 4 | `categorical_analysis.py` | Produces a frequency distribution of the unique domain names. |
 
 ---
 
-### Key Observations
+### Additional observations
+
 - 100 DeepSeek generations produced about 165 unique domains, wheras ChatGPT 4o-mini produced about 65.
 - ChatGPT had, in general, less word variation than Deepseek.
-- The most frequent domain from ChatGPT ("Clinical Efficacy") appeared in 100% of responses, wheras Deepseek ("Safety & Tolerability") appeared in 60% of responses.
-
-### Discussion
-- Deepseek produced almost 3 times as many unique domains as ChatGPT. Although it was "noisier" than ChatGPT, they weren't necessarily incorrect -- many were the same domain just worded differently.
-- When we re-ran the DeepSeek model, the domain names of the top half of the distribution remained stable. This is promising for use cases that require stable and reproducible knowledge mining.
-
+- The most frequent domain from ChatGPT ("Clinical Efficacy") appeared in 100% of responses, wheras Deepseek's ("Safety & Tolerability") appeared in only 60% of responses.
+  
 ---
 
 ## Set-up
 
 (1) You'll need to run: pip install requests
-(2) Create a file called config.py with just your OpenRouter API key (OPENROUTER_API_KEY = "sk-...") (one is provided when you make an OpenRouter account online).
+(2) Create a file called config.py with your OpenRouter API key (OPENROUTER_API_KEY = "sk-...") (one is provided when you make an OpenRouter account online).
 (3) Begin by running llm_call.py. It'll take approximately 1 hour and 40 minutes as there's a rate limit.
