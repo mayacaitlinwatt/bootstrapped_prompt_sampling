@@ -54,5 +54,7 @@ Each stage of the workflow is implemented in a separate script under `src/`.
 ## Set-up
 
 (1) You'll need to run: pip install requests
+
 (2) Create a file called config.py with your OpenRouter API key (OPENROUTER_API_KEY = "sk-...") (one is provided when you make an OpenRouter account online).
+
 (3) Begin by running llm_call.py. It'll take approximately 1 hour and 40 minutes as there's a rate limit.
